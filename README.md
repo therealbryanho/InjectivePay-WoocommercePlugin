@@ -12,3 +12,6 @@ Project uses inEVM devnet https://calderaxyz.gitbook.io/injective-documentation/
 
 Hackathon submission for Injective x Google Cloud Illuminate Hackathon
 https://dorahacks.io/hackathon/illuminate/buidl
+
+Presentation slides 
+https://docs.google.com/presentation/d/1h5Y-nTT8u-ceDL5c9c4VPWtKgnEaVGmT7XzcrLBPfsQ/edit#slide=id.p
