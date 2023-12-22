@@ -1,4 +1,4 @@
-# Injective-Pay ---- WooCommerce Plugin
+# Injective Pay ---- WooCommerce Plugin
 
 Use this WooCommerce plugin with the INJ token payment gateway.
 - Download plugin file https://github.com/therealbryanho/InjectivePay-WoocommercePlugin/blob/main/InjectivePay-Woocommerce-Plugin.zip
