@@ -10,6 +10,8 @@ Use this WooCommerce plugin with the INJ token payment gateway.
 Hackathon submission for Injective x Google Cloud Illuminate Hackathon
 https://dorahacks.io/hackathon/illuminate/buidl
 
+Injective Pay BUIDL on Dorahacks https://dorahacks.io/buidl/8529
+
 Project uses inEVM devnet https://calderaxyz.gitbook.io/injective-documentation/getting-started/add-inevm-to-metamask
 
 Presentation slides 
